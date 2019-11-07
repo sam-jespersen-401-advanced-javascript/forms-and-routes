@@ -1,0 +1,16 @@
+.Card {
+    margin:20px;
+    display:flex;
+    flex-direction: column;
+    text-decoration: none;
+    color:black;
+
+    figure {
+        max-width: max-content;
+        margin:0;
+}
+    figcaption{
+        text-align: center; 
+        font-size:2em;
+    }
+}
